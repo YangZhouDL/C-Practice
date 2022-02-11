@@ -1,0 +1,3 @@
+﻿  5.5.cpp
+D:\暑期事宜\Project\删除重复字符\5.5.cpp(10,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  删除重复字符.vcxproj -> D:\暑期事宜\Project\指针练习\x64\Debug\删除重复字符.exe
