@@ -1,0 +1,4 @@
+﻿  1.6.cpp
+D:\暑期事宜\Project\+1.6小练1\1.6.cpp(3,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\暑期事宜\Project\+1.6小练1\1.6.cpp(27): warning C4172: 返回局部变量或临时变量的地址: a
+  +1.6小练1.vcxproj -> D:\暑期事宜\Project\+1.1\x64\Debug\+1.6小练1.exe

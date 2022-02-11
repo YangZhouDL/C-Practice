@@ -1,0 +1,4 @@
+﻿  +2.2.cpp
+D:\暑期事宜\Project\+2.2类小练2\+2.2.cpp(21,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\暑期事宜\Project\+2.2类小练2\+2.2.cpp(42,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  +2.2类小练2.vcxproj -> D:\暑期事宜\Project\+2.1类与对象练习\x64\Debug\+2.2类小练2.exe
