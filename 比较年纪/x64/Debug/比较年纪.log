@@ -1,0 +1,14 @@
+﻿  6.9.cpp
+D:\暑期事宜\Project\比较年纪\6.9.cpp(8,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\暑期事宜\Project\比较年纪\6.9.cpp(55,11): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+D:\暑期事宜\Project\比较年纪\6.9.cpp(56,11): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+D:\暑期事宜\Project\比较年纪\6.9.cpp(60,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\暑期事宜\Project\比较年纪\6.9.cpp(61,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\暑期事宜\Project\比较年纪\6.9.cpp(65,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\暑期事宜\Project\比较年纪\6.9.cpp(66,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\暑期事宜\Project\比较年纪\6.9.cpp(108,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\暑期事宜\Project\比较年纪\6.9.cpp(132,10): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+D:\暑期事宜\Project\比较年纪\6.9.cpp(136,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\暑期事宜\Project\比较年纪\6.9.cpp(140,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\暑期事宜\Project\比较年纪\6.9.cpp(102): warning C4715: “camp”: 不是所有的控件路径都返回值
+  比较年纪.vcxproj -> D:\暑期事宜\Project\函数练习\x64\Debug\比较年纪.exe
