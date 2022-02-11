@@ -1,0 +1,4 @@
+﻿  求整数绝对值.cpp
+D:\暑期自学\Project\1.2\求整数绝对值.cpp(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\暑期自学\Project\1.2\求整数绝对值.cpp(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+  1.2.vcxproj -> D:\暑期自学\Project\1.2\Debug\1.2.exe

@@ -1,0 +1,32 @@
+﻿  acllib.c
+D:\21暑期事宜\Project\+3.6correct\acllib.c(150,19): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\acllib.c(278,18): warning C4244: “函数”: 从“WPARAM”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\acllib.c(543,57): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\acllib.c(810,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Clock.cpp
+  EllipseClock.cpp
+D:\21暑期事宜\Project\+3.6correct\EllipseClock.cpp(42,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\EllipseClock.cpp(42,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\EllipseClock.cpp(43,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\EllipseClock.cpp(43,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\EllipseClock.cpp(50,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\EllipseClock.cpp(50,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\EllipseClock.cpp(56,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\EllipseClock.cpp(56,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\EllipseClock.cpp(62,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\EllipseClock.cpp(62,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  RectangleClock.cpp
+D:\21暑期事宜\Project\+3.6correct\RectangleClock.cpp(42,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\RectangleClock.cpp(42,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\RectangleClock.cpp(43,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\RectangleClock.cpp(43,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\RectangleClock.cpp(50,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\RectangleClock.cpp(50,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\RectangleClock.cpp(56,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\RectangleClock.cpp(56,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\RectangleClock.cpp(62,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\21暑期事宜\Project\+3.6correct\RectangleClock.cpp(62,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Shape.cpp
+  源.cpp
+  正在生成代码...
+  +3.6correct.vcxproj -> D:\21暑期事宜\Project\+3.3多态\x64\Debug\+3.6correct.dll
