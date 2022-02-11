@@ -1,0 +1,28 @@
+﻿  EllipseClock.cpp
+D:\21暑期事宜\Project\+3.1继承派生练习\EllipseClock.cpp(19,11): error C2248: “Clock::h”: 无法访问 private 成员(在“Clock”类中声明)
+D:\21暑期事宜\Project\+3.1继承派生练习\Clock.h(5): message : 参见“Clock::h”的声明
+D:\21暑期事宜\Project\+3.1继承派生练习\Clock.h(2): message : 参见“Clock”的声明
+D:\21暑期事宜\Project\+3.1继承派生练习\EllipseClock.cpp(19,14): error C2248: “Clock::m”: 无法访问 private 成员(在“Clock”类中声明)
+D:\21暑期事宜\Project\+3.1继承派生练习\Clock.h(5): message : 参见“Clock::m”的声明
+D:\21暑期事宜\Project\+3.1继承派生练习\Clock.h(2): message : 参见“Clock”的声明
+D:\21暑期事宜\Project\+3.1继承派生练习\EllipseClock.cpp(19,17): error C2248: “Clock::s”: 无法访问 private 成员(在“Clock”类中声明)
+D:\21暑期事宜\Project\+3.1继承派生练习\Clock.h(5): message : 参见“Clock::s”的声明
+D:\21暑期事宜\Project\+3.1继承派生练习\Clock.h(2): message : 参见“Clock”的声明
+  Rectangle.cpp
+D:\21暑期事宜\Project\+3.1继承派生练习\Rectangle.cpp(6,1): error C2512: “CShape”: 没有合适的默认构造函数可用
+D:\21暑期事宜\Project\+3.1继承派生练习\CShape.h(2,7): message : 参见“CShape”的声明
+  RectangleClock.cpp
+D:\21暑期事宜\Project\+3.1继承派生练习\RectangleClock.cpp(5,1): error C2512: “Ellipse”: 没有合适的默认构造函数可用
+D:\21暑期事宜\Project\+3.1继承派生练习\Ellipse.h(3,7): message : 参见“Ellipse”的声明
+D:\21暑期事宜\Project\+3.1继承派生练习\RectangleClock.cpp(9,1): error C2512: “Ellipse”: 没有合适的默认构造函数可用
+D:\21暑期事宜\Project\+3.1继承派生练习\Ellipse.h(3,7): message : 参见“Ellipse”的声明
+D:\21暑期事宜\Project\+3.1继承派生练习\RectangleClock.cpp(19,11): error C2248: “Clock::h”: 无法访问 private 成员(在“Clock”类中声明)
+D:\21暑期事宜\Project\+3.1继承派生练习\Clock.h(5): message : 参见“Clock::h”的声明
+D:\21暑期事宜\Project\+3.1继承派生练习\Clock.h(2): message : 参见“Clock”的声明
+D:\21暑期事宜\Project\+3.1继承派生练习\RectangleClock.cpp(19,14): error C2248: “Clock::m”: 无法访问 private 成员(在“Clock”类中声明)
+D:\21暑期事宜\Project\+3.1继承派生练习\Clock.h(5): message : 参见“Clock::m”的声明
+D:\21暑期事宜\Project\+3.1继承派生练习\Clock.h(2): message : 参见“Clock”的声明
+D:\21暑期事宜\Project\+3.1继承派生练习\RectangleClock.cpp(19,17): error C2248: “Clock::s”: 无法访问 private 成员(在“Clock”类中声明)
+D:\21暑期事宜\Project\+3.1继承派生练习\Clock.h(5): message : 参见“Clock::s”的声明
+D:\21暑期事宜\Project\+3.1继承派生练习\Clock.h(2): message : 参见“Clock”的声明
+  正在生成代码...

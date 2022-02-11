@@ -1,0 +1,6 @@
+﻿  MemberCard.cpp
+  ShoppingCard.cpp
+  main.cpp
+D:\21暑期事宜\Project\+3.2 ID\main.cpp(14,23): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码...
+  +3.2 ID.vcxproj -> D:\21暑期事宜\Project\+3.1继承派生练习\x64\Debug\+3.2 ID.exe
