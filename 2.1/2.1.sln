@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "itoa函数求二进制数", "2.1.vcxproj", "{8395670E-C19E-41C1-8C42-24C9970C5833}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "廉租房", "..\廉租房\廉租房.vcxproj", "{1D271DF4-905C-49AE-8ED6-F6F19E6DE491}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "一般方法求二进制数", "..\一般方法求二进制数\一般方法求二进制数.vcxproj", "{E19DF22E-6C19-40CC-BEF2-5E279BFAE768}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "扫地机器人", "..\扫地机器人\扫地机器人.vcxproj", "{2A1058DE-4BE2-48CF-952F-5958152C4EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8395670E-C19E-41C1-8C42-24C9970C5833}.Debug|x64.ActiveCfg = Debug|x64
+		{8395670E-C19E-41C1-8C42-24C9970C5833}.Debug|x64.Build.0 = Debug|x64
+		{8395670E-C19E-41C1-8C42-24C9970C5833}.Debug|x86.ActiveCfg = Debug|Win32
+		{8395670E-C19E-41C1-8C42-24C9970C5833}.Debug|x86.Build.0 = Debug|Win32
+		{8395670E-C19E-41C1-8C42-24C9970C5833}.Release|x64.ActiveCfg = Release|x64
+		{8395670E-C19E-41C1-8C42-24C9970C5833}.Release|x64.Build.0 = Release|x64
+		{8395670E-C19E-41C1-8C42-24C9970C5833}.Release|x86.ActiveCfg = Release|Win32
+		{8395670E-C19E-41C1-8C42-24C9970C5833}.Release|x86.Build.0 = Release|Win32
+		{1D271DF4-905C-49AE-8ED6-F6F19E6DE491}.Debug|x64.ActiveCfg = Debug|x64
+		{1D271DF4-905C-49AE-8ED6-F6F19E6DE491}.Debug|x64.Build.0 = Debug|x64
+		{1D271DF4-905C-49AE-8ED6-F6F19E6DE491}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D271DF4-905C-49AE-8ED6-F6F19E6DE491}.Debug|x86.Build.0 = Debug|Win32
+		{1D271DF4-905C-49AE-8ED6-F6F19E6DE491}.Release|x64.ActiveCfg = Release|x64
+		{1D271DF4-905C-49AE-8ED6-F6F19E6DE491}.Release|x64.Build.0 = Release|x64
+		{1D271DF4-905C-49AE-8ED6-F6F19E6DE491}.Release|x86.ActiveCfg = Release|Win32
+		{1D271DF4-905C-49AE-8ED6-F6F19E6DE491}.Release|x86.Build.0 = Release|Win32
+		{E19DF22E-6C19-40CC-BEF2-5E279BFAE768}.Debug|x64.ActiveCfg = Debug|x64
+		{E19DF22E-6C19-40CC-BEF2-5E279BFAE768}.Debug|x64.Build.0 = Debug|x64
+		{E19DF22E-6C19-40CC-BEF2-5E279BFAE768}.Debug|x86.ActiveCfg = Debug|Win32
+		{E19DF22E-6C19-40CC-BEF2-5E279BFAE768}.Debug|x86.Build.0 = Debug|Win32
+		{E19DF22E-6C19-40CC-BEF2-5E279BFAE768}.Release|x64.ActiveCfg = Release|x64
+		{E19DF22E-6C19-40CC-BEF2-5E279BFAE768}.Release|x64.Build.0 = Release|x64
+		{E19DF22E-6C19-40CC-BEF2-5E279BFAE768}.Release|x86.ActiveCfg = Release|Win32
+		{E19DF22E-6C19-40CC-BEF2-5E279BFAE768}.Release|x86.Build.0 = Release|Win32
+		{2A1058DE-4BE2-48CF-952F-5958152C4EBF}.Debug|x64.ActiveCfg = Debug|x64
+		{2A1058DE-4BE2-48CF-952F-5958152C4EBF}.Debug|x64.Build.0 = Debug|x64
+		{2A1058DE-4BE2-48CF-952F-5958152C4EBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A1058DE-4BE2-48CF-952F-5958152C4EBF}.Debug|x86.Build.0 = Debug|Win32
+		{2A1058DE-4BE2-48CF-952F-5958152C4EBF}.Release|x64.ActiveCfg = Release|x64
+		{2A1058DE-4BE2-48CF-952F-5958152C4EBF}.Release|x64.Build.0 = Release|x64
+		{2A1058DE-4BE2-48CF-952F-5958152C4EBF}.Release|x86.ActiveCfg = Release|Win32
+		{2A1058DE-4BE2-48CF-952F-5958152C4EBF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FF0A450-B41A-4B8B-ADD8-B853267B1C8D}
+	EndGlobalSection
+EndGlobal

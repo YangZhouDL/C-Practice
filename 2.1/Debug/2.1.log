@@ -1,0 +1,9 @@
+﻿  输出不同数据类型.cpp
+D:\暑期自学\Project\2.1\输出不同数据类型.cpp(6,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+D:\暑期自学\Project\2.1\输出不同数据类型.cpp(6,10): message : 请考虑在格式字符串中使用“%hhd”
+D:\暑期自学\Project\2.1\输出不同数据类型.cpp(7,8): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+D:\暑期自学\Project\2.1\输出不同数据类型.cpp(9,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\暑期自学\Project\2.1\输出不同数据类型.cpp(9,10): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\暑期自学\Project\2.1\输出不同数据类型.cpp(9,10): message : 缺失的可变参数 1 为格式字符串“%x”所需
+D:\暑期自学\Project\2.1\输出不同数据类型.cpp(4,10): warning C4101: “b”: 未引用的局部变量
+  2.1.vcxproj -> D:\暑期自学\Project\2.1\Debug\2.1.exe
