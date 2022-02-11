@@ -1,0 +1,4 @@
+﻿  廉租房问题.cpp
+D:\暑期自学\Project\廉租房\廉租房问题.cpp(17,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\暑期自学\Project\廉租房\廉租房问题.cpp(23,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  廉租房.vcxproj -> D:\暑期自学\Project\2.1\x64\Debug\廉租房.exe

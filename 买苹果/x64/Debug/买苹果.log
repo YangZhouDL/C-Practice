@@ -1,0 +1,3 @@
+﻿  买苹果问题.cpp
+D:\暑期自学\Project\买苹果\买苹果问题.cpp(4,15): warning C4305: “初始化”: 从“double”到“float”截断
+  买苹果.vcxproj -> D:\暑期自学\Project\（电）第三章练习\x64\Debug\买苹果.exe
